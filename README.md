@@ -10,10 +10,6 @@
   <img src="Public/Monopoly_game_logo.svg.png" alt="Monopoly Logo" width="400"/>
 </p>
 
-## 🚀 Overview
-
-**Monte Carlo Monopoly** is more than just a game simulation; it's a strategic analysis tool. By utilizing Monte Carlo methods, the engine executes thousands of iterations to model the complex economics of Monopoly. It provides the data necessary to drive a real-time analytics dashboard, helping players understand which properties offer the best yield under varying risk tolerances.
-
 ### Key Features
 
 *   **Monte Carlo Simulation Engine**: Run thousands of games in seconds to capture statistical significance.
@@ -74,4 +70,3 @@ When running with the `--json` flag, the engine emits a payload containing:
 - `propertyMatrix`: High-fidelity data for the dashboard (Live logs, agent net worth, and property ownership).
 
 ---
-*Developed for advanced game theory analysis and statistical modeling.*
